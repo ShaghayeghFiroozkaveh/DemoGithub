@@ -21,6 +21,7 @@ namespace DemoGithub
         {
             int i= 10;
             int u = 2;
+            i = 12;
 
         }
     }
