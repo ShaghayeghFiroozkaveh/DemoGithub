@@ -20,6 +20,7 @@ namespace DemoGithub
         private void button1_Click(object sender, EventArgs e)
         {
             int i= 10;
+            int u = 2;
 
         }
     }
